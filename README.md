@@ -11,9 +11,8 @@ npm install joi
 npm install bcrypt
 npm install jsonwebtoken
 
-
 ## Deployment
-git clone
+git clone git@github.com:hannahkim7605/node-js-jwt-auth.git
 cd node-js-jwt-auth
 npm start
 
