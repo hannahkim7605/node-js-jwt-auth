@@ -47,6 +47,6 @@ localhost:3000/api/posts
 Tokens get verified through the jsonwebtoken package.
 
 Reference:
-https://joi.dev/api/?v=17.4.0
-https://www.npmjs.com/package/bcrypt
-https://www.npmjs.com/package/jsonwebtoken
+1. https://joi.dev/api/?v=17.4.0
+2. https://www.npmjs.com/package/bcrypt
+3. https://www.npmjs.com/package/jsonwebtoken
