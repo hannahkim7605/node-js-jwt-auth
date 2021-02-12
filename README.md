@@ -1,5 +1,5 @@
-# JWT Authentication in Node.js
-This is a JWT authentication built in Node.js. It hashes users' passwords and allows users to register and log in. Through token verification, it retrieves the user's information.
+# Node.js JWT Authentication
+This is a JWT authentication built with Node.js. It hashes users' passwords and allows users to register and log in. Through token verification, it retrieves the user's information.
 
 ## Install pacakages
 
@@ -43,7 +43,6 @@ curl -H "Content-Type: application/json" \
 -X GET \
 localhost:3000/api/posts
 ```
-
 Tokens get verified through the jsonwebtoken package.
 
 Reference:
